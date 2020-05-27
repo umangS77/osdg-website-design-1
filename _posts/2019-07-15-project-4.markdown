@@ -1,0 +1,15 @@
+---
+title: Title4
+subtitle: subTitle4
+layout: default
+modal-id: 4
+date: 2019-07-17
+img: def.jpg
+thumbnail: def.jpg
+alt: image-alt
+project-date: April 2019
+client: Client
+category: Category
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

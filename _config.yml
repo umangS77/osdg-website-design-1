@@ -1,0 +1,68 @@
+url: 
+baseurl: /osdg-website/
+
+# Site settings
+title: OSDG@IIIT-H
+email: 
+
+
+# Team names, titles and social links
+people:
+- name: Name
+  pic: 1
+  position: Post
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+    - title: github
+      url: #
+
+- name: name
+  pic: 2
+  position: post
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+    - title: github
+      url: #
+
+- name: name
+  pic: 3
+  position: post
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/
+  - title: bitbucket 
+    url: http://bitbucket.org/
+  - title: github
+    url: http://github.com/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: International Institute of Informational Technology
+  - line: Hyderabad , Telangana - 500032
+
+# Build settings
+markdown: kramdown
+permalink: pretty
